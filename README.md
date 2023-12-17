@@ -2,3 +2,4 @@
 Hello Git
 Hello Local PC
 Line conflict 4
+Error
